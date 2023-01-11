@@ -15,7 +15,6 @@
 * If npm installed correctly execute following code in therminal
   >> npm i -g electron
 * Next install the menu-bar to the application.Before install the menu bar we have to install yarn modeuls to our system.
-  >> Install yarn 
   >> npm install --global yarn
 * Now we can install the menubar using following code
   >> yarn add menubar
