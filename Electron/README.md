@@ -5,8 +5,8 @@
 ### The steps to run this on your computer
 
 * Install NodeJs on your computer.
-  >> use this link to download Nodejs to your computer.
-  >> https://nodejs.org/en/download/
+  > use this link to download Nodejs to your computer.
+  > https://nodejs.org/en/download/
 * Download the files in the Electron folder. 
 * Open these files on Visual Studio Code.
 * Open the terminal in Visual Studio Code and check whether npm is installed.
