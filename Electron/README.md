@@ -4,6 +4,9 @@
 
 ### The steps to run this on your computer
 
+* Install NodeJs on your computer.
+  >> use this link to download Nodejs to your computer.
+  >> https://nodejs.org/en/download/
 * Download the files in Electron folder. 
 * Open this files on Visual Studio Code.
 * Open the thermninal in Visual Studio Code.
