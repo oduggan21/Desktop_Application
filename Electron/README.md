@@ -10,16 +10,16 @@
 * Download the files in the Electron folder. 
 * Open these files on Visual Studio Code.
 * Open the terminal in Visual Studio Code and check whether npm is installed.
-  >> use this command to check if npm is installed or not.
-  >> npm -v
+  > use this command to check if npm is installed or not.
+  > npm -v
 * If npm is installed correctly execute the following code in terminal
-  >> npm i -g electron
+  > npm i -g electron
 * Next, install the menu bar to the application. Before installing the menu bar we have to install yarn modules in our system.
-  >> npm install --global yarn
+  > npm install --global yarn
 * Now we can install the menubar using the following code
-  >> yarn add menubar
+  > yarn add menubar
 
 * Now we can run the application using following code
-  >> npm start
+  > npm start
 
 
