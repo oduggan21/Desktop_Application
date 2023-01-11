@@ -19,5 +19,5 @@
 * Now we can install the menubar using following code
   >> yarn add menubar
 
-* If Nodejs installed correctly please run the below code.It will start your application
+* Now we can run the applicatin using following code
   >> npm start
