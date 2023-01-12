@@ -10,7 +10,8 @@
 #### Browser
 >> This folder include Chrome extension files 
 #### AI
-
+ * These files will be added during this semester
 #### Windows Development
-
+  * These files will be added during this semester
 #### Mac OS Development
+  * These files will be added during this semester
