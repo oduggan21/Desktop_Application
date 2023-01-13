@@ -5,10 +5,10 @@
 
 #### Electron
 
->> In this folder include frontend files that are written in electron js.
+> In this folder include frontend files that are written in electron js.
   
 #### Browser
->> This folder include Chrome extension files 
+> This folder include Chrome extension files 
 #### AI
  * These files will be added during this semester
 #### Windows Development
