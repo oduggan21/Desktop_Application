@@ -3,3 +3,4 @@ Cecilia Delgado Solorzano <br>
 Alberto Campos Hernandez <br>
 Carlos Toxtli Hernandez <br>
 Victor Rios Muñoz <br>
+Claire Gendron <br>
