@@ -5,3 +5,4 @@ Carlos Toxtli Hernandez <br>
 Victor Rios Muñoz <br>
 Claire Gendron <br>
 Matthew Rogers <br>
+Owen Duggan <br>
